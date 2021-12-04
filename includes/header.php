@@ -13,11 +13,12 @@
     <header>
         <section>
             <nav class="stroke">
-                <a href="index.php" class="header-brand">Irakli Kh</a>
                 <ul>
+                    <li><a href="index.php">Irakli Kh</a></li>
                     <li><a href="Irakli_Khonelidze_CV.pdf" target="_blank">Resume</a></1i>
                     <li><a href="message.php">Contact</a></li>
                     <li><a href="aboutme.php">About me</a></li>
+
                 </ul>
             </nav>
         </section>    

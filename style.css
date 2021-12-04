@@ -119,16 +119,6 @@ header {
     height: 100px;
 }
 
-header .header-brand {
-    font-size: 24px;
-    font-weight: 900;
-    color: #111;
-    text-transform: uppercase;
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-    padding: 20px 0;
-}
 
 
 
@@ -178,15 +168,7 @@ nav ul li a:hover {
 
 
 @media only screen and (min-width: 1000px) {
-    header .header-brand {
-        margin: 31px 0;
-        text-align: left;
-        line-height: 38px;
-
-        padding: 0 20px 0 40px;
-        border-right: 3px solid #111;
-        /* float: left; */
-    }
+   
 
     header nav ul {
         margin: 20px 0px 0px 20px;

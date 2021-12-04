@@ -1,4 +1,5 @@
 <?php
+$title = "Projects";
 include "includes/header.php"
 ?>
 <style>

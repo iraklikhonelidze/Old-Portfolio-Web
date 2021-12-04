@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='stylesheet' type='text/css' href="style.css">
     <link rel='icon' type='image/x-icon' href="favicon.ico">
-<title>Irakli</title>
+<title><?php echo $title?></title>
 
 </head>
 

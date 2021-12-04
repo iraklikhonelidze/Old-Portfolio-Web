@@ -1,4 +1,5 @@
 <?php
+    $title = "Contact Me";
     include 'includes/header.php'
 ?>
 

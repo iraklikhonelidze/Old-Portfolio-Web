@@ -1,4 +1,5 @@
 <?php
+    $title = "About Me";
     include 'includes/header.php'
 ?>
 <main>
